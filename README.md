@@ -21,7 +21,7 @@ I'm a passionate software engineer with expertise in full-stack development, spe
 
 ## 🚀 Experience
 
-* **Software Engineer (Apr 2014 - Oct 2018)**
+* **Software Engineer (Sep 2020 - Present)**
     * Developed a Dialog Frameworks using which developers can easily build their own dialogs for any layout with
 custom validation.
     * Developed a Dynamic Form library where users can create their own customized form by dragging and
